@@ -16,14 +16,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcusMartins55&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusMartins55&layout=compact&theme=radical"/>
 </p>
 
 <hr>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Marcus Martins&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=MarcusMartins55&color=blue"/>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=console.log("Marcus+Martins"))](https://git.io/typing-svg)
