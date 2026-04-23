@@ -1,4 +1,4 @@
-<h1 align="center">console.log("Marcus Martins")</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=console.log("Marcus+Martins"))](https://git.io/typing-svg)
 
 <hr>
 
@@ -26,4 +26,3 @@
   <img src="https://komarev.com/ghpvc/?username=MarcusMartins55&color=blue"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=console.log("Marcus+Martins"))](https://git.io/typing-svg)
